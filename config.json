@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "—͞ 𝐐𝐔𝐄𝐄𝐍 🎀❤️‍🩹",
+  "nickNameBot": "💧—͞_MADARA UCHIHA♤♤💧",
   "prefix": "/",
   "noPrefix": {
     "enable": false,
@@ -23,7 +23,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61583835186508",
+    "61584608305717",
     " ",
     " "
   ],
@@ -31,16 +31,15 @@
     "enable": true,
     "onlyAdmin": true,
     "emojis": [
-      "😡",
-      "🤬"
+      "💀",
+      "👍"
     ],
     "notes": "If enable = true, bot will unsend any message reacted with these emojis. If onlyAdmin = true, only adminBot IDs can trigger it."
   },
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "61584608305717"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
